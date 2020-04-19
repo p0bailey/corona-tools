@@ -8,6 +8,9 @@ A convenient way to run Coronavirus CLI tools from a Docker image.
 [![](https://images.microbadger.com/badges/version/p0bailey/corona-tools.svg)](https://hub.docker.com/r/p0bailey/corona-tools/)
 [![Docker Hub](http://img.shields.io/docker/pulls/p0bailey/corona-tools.svg)](https://hub.docker.com/r/p0bailey/corona-tools/)
 
+
+[![asciicast](https://asciinema.org/a/HK2sKol9pDVBV9Ml0zo75yMIu.svg)](https://asciinema.org/a/HK2sKol9pDVBV9Ml0zo75yMIu)
+
 ### Prerequisites
 
 To run the image you need to have docker installed.
@@ -32,7 +35,7 @@ By countries:
 
 ## Authors
 
-* **Phillip Bailey** - *Initial work* - [p0bailey](https://github.com/p0bailey)
+* **Phillip Bailey** - *Initial work* - [p0bailey](https://github.com/p0bailey) - https://keybase.io/pbailey
 
 
 ## License
