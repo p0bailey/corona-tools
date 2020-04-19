@@ -30,8 +30,13 @@ By countries:
 * [Docker](https://www.docker.com/) - Securely build and share any application, anywhere
 * [Coronacli](https://github.com/ahmadawais/corona-cli) -  Track the Coronavirus disease (COVID-19) in the command line.
 
+## Contributing
 
-
+1. Fork it (<https://github.com/p0bailey/corona-tools/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
 
 ## Authors
 
