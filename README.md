@@ -2,7 +2,7 @@
 
 In these extraordinary times every bit matter.
 
-A convenient way to run Coronavirus CLI tools from a Docker image without the hassle of installing NodeJS.
+A convenient way to run Coronavirus CLI tools from a Docker image without the hassle of installing NodeJS on your laptop or OS.
 
 [![](https://images.microbadger.com/badges/image/p0bailey/corona-tools.svg)](http://microbadger.com/images/p0bailey/corona-tools "Get your own image badge on microbadger.com")
 [![](https://images.microbadger.com/badges/version/p0bailey/corona-tools.svg)](https://hub.docker.com/r/p0bailey/corona-tools/)
