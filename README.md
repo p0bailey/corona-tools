@@ -42,7 +42,10 @@ By countries:
 
 ## Authors
 
-* **Phillip Bailey** - *Initial work* - [p0bailey](https://github.com/p0bailey) - https://keybase.io/pbailey
+* **Phillip Bailey** - *Docker container work* - [p0bailey](https://github.com/p0bailey) - https://keybase.io/pbailey
+
+* **Ahmad Awais** - *corona-cli Author* - [p0bailey](https://github.com/ahmadawais) 
+
 
 
 ## License
