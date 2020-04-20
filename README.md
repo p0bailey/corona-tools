@@ -48,7 +48,7 @@ By countries:
 
 * **Phillip Bailey** - *Docker container work* - [p0bailey](https://github.com/p0bailey) - https://keybase.io/pbailey
 
-* **Ahmad Awais** - *corona-cli Author* - [p0bailey](https://github.com/ahmadawais) 
+* **Ahmad Awais** - *corona-cli Author* - [Ahmad Awais](https://github.com/ahmadawais) 
 
 
 
