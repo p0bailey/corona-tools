@@ -23,7 +23,7 @@ Get docker - https://docs.docker.com/get-docker/
 
 ***Whole World*** `docker run --rm  p0bailey/corona-tools corona`
 
-***Whole World - limit to 10*** `docker run --rm  p0bailey/corona-tools corona`
+***Whole World - limit to 10*** `docker run --rm  p0bailey/corona-tools corona -l 10`
 
 By countries: 
 
