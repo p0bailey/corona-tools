@@ -7,7 +7,9 @@ A convenient way to run Coronavirus CLI tools from a Docker image without the ha
 [![](https://images.microbadger.com/badges/image/p0bailey/corona-tools.svg)](http://microbadger.com/images/p0bailey/corona-tools "Get your own image badge on microbadger.com")
 [![](https://images.microbadger.com/badges/version/p0bailey/corona-tools.svg)](https://hub.docker.com/r/p0bailey/corona-tools/)
 [![Docker Hub](http://img.shields.io/docker/pulls/p0bailey/corona-tools.svg)](https://hub.docker.com/r/p0bailey/corona-tools/)
+![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/p0bailey/corona-tools) 
 
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/p0bailey/corona-tools?style=for-the-badge)
 
 [![asciicast](https://asciinema.org/a/HK2sKol9pDVBV9Ml0zo75yMIu.svg)](https://asciinema.org/a/HK2sKol9pDVBV9Ml0zo75yMIu)
 
@@ -40,7 +42,10 @@ By countries:
 
 ## Authors
 
-* **Phillip Bailey** - *Initial work* - [p0bailey](https://github.com/p0bailey) - https://keybase.io/pbailey
+* **Phillip Bailey** - *Docker container work* - [p0bailey](https://github.com/p0bailey) - https://keybase.io/pbailey
+
+* **Ahmad Awais** - *corona-cli Author* - [p0bailey](https://github.com/ahmadawais) 
+
 
 
 ## License
