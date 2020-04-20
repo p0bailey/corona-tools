@@ -23,7 +23,7 @@ Get docker - https://docs.docker.com/get-docker/
 
 ***Whole World*** `docker run --rm  p0bailey/corona-tools corona`
 
-***Whole World - limit to 10*** `docker run --rm  p0bailey/corona-tools corona`
+***Whole World - limit to 10*** `docker run --rm  p0bailey/corona-tools corona -l 10`
 
 By countries: 
 
@@ -48,7 +48,7 @@ By countries:
 
 * **Phillip Bailey** - *Docker container work* - [p0bailey](https://github.com/p0bailey) - https://keybase.io/pbailey
 
-* **Ahmad Awais** - *corona-cli Author* - [p0bailey](https://github.com/ahmadawais) 
+* **Ahmad Awais** - *corona-cli Author* - [Ahmad Awais](https://github.com/ahmadawais) 
 
 
 
